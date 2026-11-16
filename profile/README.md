@@ -37,13 +37,6 @@ back as a status check.
 - **Talks to your tools.** GitHub, GitLab, Bitbucket, Slack, Linear, Jira and Figma.
 - **Open source** under the [GNU GPL v3](https://github.com/cir-ci/repo/blob/main/LICENSE).
 
-## Repositories
-
-| Repository | What's in it |
-| --- | --- |
-| [`repo`](https://github.com/cir-ci/repo) | The server, worker, dashboard, CLI and test integrations |
-| [`documentation`](https://github.com/cir-ci/documentation) | The documentation site at [circi.dev](https://circi.dev) |
-
 ## Made by Hilma
 
 CirCI is created by [Hilma](https://www.hilma.tech), tech for impact: high-tech built for the
