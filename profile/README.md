@@ -40,10 +40,7 @@ back as a status check.
 
 <p>
   <a href="https://www.hilma.tech">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/hilma-logo-dark.svg">
-      <img src="assets/hilma-logo.svg" width="232" alt="Hilma: tech for impact">
-    </picture>
+    <img src="assets/hilma-logo-card.svg" width="264" alt="Hilma: tech for impact">
   </a>
 </p>
 
