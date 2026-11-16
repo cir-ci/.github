@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/circi-logo.svg" width="96" height="96" alt="CirCI">
+  <img src="assets/circi-logo-rounded.svg" width="121" height="121" alt="CirCI">
 </p>
 
 <p align="center">
