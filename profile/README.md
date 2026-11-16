@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/circi-logo-rounded.svg" width="121" height="121" alt="CirCI">
+  <a href="https://circi.dev">
+    <img src="assets/circi-logo-rounded.svg" width="121" height="121" alt="CirCI">
+  </a>
 </p>
 
 <p align="center">
