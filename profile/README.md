@@ -2,6 +2,12 @@
   <img src="assets/circi-logo.svg" width="96" height="96" alt="CirCI">
 </p>
 
+<p align="center">
+  <a href="https://www.hilma.tech">
+    <img src="assets/hilma-logo-card.svg" width="400" alt="Made by Hilma: tech for impact">
+  </a>
+</p>
+
 <h1 align="center">CirCI</h1>
 
 <p align="center">
@@ -37,12 +43,6 @@ back as a status check.
 | [`documentation`](https://github.com/cir-ci/documentation) | The documentation site at [circi.dev](https://circi.dev) |
 
 ## Made by Hilma
-
-<p>
-  <a href="https://www.hilma.tech">
-    <img src="assets/hilma-logo-card.svg" width="264" alt="Hilma: tech for impact">
-  </a>
-</p>
 
 CirCI is created by [Hilma](https://www.hilma.tech), tech for impact: high-tech built for the
 good of society. We build it in the open: issues, ideas and pull requests are welcome. Start with the
