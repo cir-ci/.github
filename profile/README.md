@@ -4,12 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.hilma.tech">
-    <img src="assets/hilma-logo-card.svg" width="400" alt="Made by Hilma: tech for impact">
-  </a>
-</p>
-
 <h1 align="center">CirCI</h1>
 
 <p align="center">
@@ -37,7 +31,11 @@ back as a status check.
 - **Talks to your tools.** GitHub, GitLab, Bitbucket, Slack, Linear, Jira and Figma.
 - **Open source** under the [GNU GPL v3](https://github.com/cir-ci/repo/blob/main/LICENSE).
 
-## Made by Hilma
+<h2 align="center">
+  <a href="https://www.hilma.tech">
+    <img src="assets/hilma-logo-card.svg" width="400" alt="Made by Hilma: tech for impact">
+  </a>
+</h2>
 
 CirCI is created by [Hilma](https://www.hilma.tech), tech for impact: high-tech built for the
 good of society. We build it in the open: issues, ideas and pull requests are welcome. Start with the
